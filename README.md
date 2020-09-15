@@ -36,7 +36,7 @@
   <h2 align="center">Capstone Project</h2>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A Data Science project which explains the severity of Car Accidents and possible predictions to reduce the accidents.  
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
