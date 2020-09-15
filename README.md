@@ -95,11 +95,11 @@ This project is mainly useful for people who travel by cars and other means of t
 <!-- DESCRIPTION OF DATA -->
 ## Description of Data
 
-The data is collected from [kaggle.com](https://www.kaggle.com/ahmedlahlou/accidents-in-france-from-2005-to-2016) which contains data of Accidents in France from 2005 to 2016. It has a total of 839986 rows which contain information about Accident details in clear format and its charecteristics. The kaggle datasets contain an extended descriptions of different aspect of the accidents, thus I've selected the most relevant and useful data for my analysis.
+The data is collected from [kaggle.com](https://www.kaggle.com/ahmedlahlou/accidents-in-france-from-2005-to-2016) which contains dataset of 'Accidents in France from 2005 to 2016'. It has a total of 839986 rows which contain information about Accident details in clear format and its charecteristics. The kaggle datasets contain an extended descriptions of different aspect of the accidents, thus I've selected the most relevant and useful data for my analysis.
 
 ### Attribute Selection
 
-This is an example of how to list things you need to use the software and how to install them.
+The capstone project consists of [Notebook File]() which consists of information about the data attributes which are taken into consideration and the ones which are dropped from the data as they are of no use. It contains all the steps and transformations I made to the data which include Data Cleansing, removal of duplicate values and unwanted data. 
 * npm
 ```sh
 npm install npm@latest -g
