@@ -79,7 +79,7 @@ Some of the reasons for Road Accidents:
 * Avoiding Safety Gears like Seat belts and Helmets.
 * Non-adherence to lane driving and overtaking in a wrong manner.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
+**Road accidents are one of the most relevant causes of injuries and death worldwide, and therefore, they constitute a significant field of research on the use of advanced algorithms and techniques to analyze and predict traffic accidents and determine the most relevant elements that contribute to road accidents.**
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
