@@ -30,7 +30,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/Coursera.png" alt="Coursera" width="600" height="154">
+    <img src="images/Coursera.png" alt="Coursera" width="400" height="102">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
