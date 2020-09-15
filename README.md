@@ -95,8 +95,7 @@ This project is mainly useful for people who travel by cars and other means of t
 <!-- DESCRIPTION OF DATA -->
 ## Description of Data
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+The data is collected from [kaggle.com](https://www.kaggle.com/ahmedlahlou/accidents-in-france-from-2005-to-2016) which contains data of Accidents in France from 2005 to 2016. It has a total of 839986 rows which contain information about Accident details in clear format and its charecteristics. The kaggle datasets contain an extended descriptions of different aspect of the accidents, thus I've selected the most relevant and useful data for my analysis.
 
 ### Prerequisites
 
