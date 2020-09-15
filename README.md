@@ -1,1 +1,1 @@
-<h2 align="center">Coursera_Capstone</h2>
+<h2 align="left">Coursera_Capstone</h2>
