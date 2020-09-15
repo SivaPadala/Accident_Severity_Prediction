@@ -68,7 +68,8 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+Road traffic accidents have always been a serious issue in modern society. According to statistical results, more than 90% of accidents have been caused by a driver’s mistake and/or fatigue. Such accidents result in loss of life and material. These are caused by the carelessness of drivers and their ignorance and negligence of traffic rules.
+Approximately 1.35 million people die each year as a result of road traffic crashes.
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
