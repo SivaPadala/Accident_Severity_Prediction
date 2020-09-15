@@ -81,9 +81,7 @@ Some of the reasons for Road Accidents:
 
 **Road accidents are one of the most relevant causes of injuries and death worldwide, and therefore, they constitute a significant field of research on the use of advanced algorithms and techniques to analyze and predict traffic accidents and determine the most relevant elements that contribute to road accidents.**
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
-
-### Built With
+### Advanced Algorithms and Techniques to analyze and predict traffic accidents:
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
