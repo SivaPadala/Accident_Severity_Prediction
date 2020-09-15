@@ -84,6 +84,7 @@ Some of the reasons for Road Accidents:
 ### Advanced-algorithms
 Machine Learning is the ability to train machines for the required model out put using the algorithms which function on the mathematical and statistical background.Machine learning focuses on the development of computer programs that can access data and use it learn for themselves and automates the process. Some of the important Machine Learning Algorithms. 
 * [Logistic Regression](https://careerfoundry.com/en/blog/data-analytics/what-is-logistic-regression/)
+* <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
 * [k-Nearest Neighbours](https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/)
 * [Decision Tree](https://www.geeksforgeeks.org/decision-tree/)
 * [Support Vector Machine](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
