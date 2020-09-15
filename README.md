@@ -87,7 +87,7 @@ Machine Learning is the ability to train machines for the required model out put
 * <a href="https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/" target="_blank">k-Nearest Neighbours</a>
 * <a href="https://www.geeksforgeeks.org/decision-tree/" target="_blank">Decision Tree</a>
 * <a href="https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47" target="_blank">Support Vector Machine</a>
-* [go](http://stackoverflow.com){:target="_blank"}?
+* [go](http://stackoverflow.com){:target="_blank"}
 
 
 
