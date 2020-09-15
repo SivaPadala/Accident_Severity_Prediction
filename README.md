@@ -54,7 +54,7 @@
   * [Beneficiaries](#beneficiaries)
 * [Description of Data](#description-of-data)
   * [Attribute Selection](#attribute-selection)
-* [Usage](#usage)
+* [Model Development](#model-development)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
@@ -108,7 +108,7 @@ npm install npm@latest -g
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Model Development
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
