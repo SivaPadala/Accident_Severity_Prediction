@@ -89,7 +89,7 @@ Machine Learning is the ability to train machines for the required model out put
 * <a href="https://www.geeksforgeeks.org/decision-tree/" target="_blank">Decision Tree</a>
 * <a href="https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47" target="_blank">Support Vector Machine</a>
 ### Beneficiaries
-Machine Learning is the ability to train machines for the required model out put using the algorithms which function on the mathematical and statistical background.Machine learning focuses on the development of computer programs that can access data and use it learn for themselves and automates the process. Some of the important Machine Learning Algorithms.
+This project is mainly useful for people who travel by cars and other means of transport. It explains about weather and road conditions which indicates the probability of getting into accidents. So the normal people and also the Government can use this project to reduce road accidents.
 
 
 <!-- GETTING STARTED -->
