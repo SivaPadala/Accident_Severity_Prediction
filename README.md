@@ -52,7 +52,7 @@
 * [Introduction](#introduction)
   * [Advanced Algorithms](#advanced-algorithms)
   * [Beneficiaries](#beneficiaries)
-* [Getting Started](#getting-started)
+* [Description of Data](#description-of-data)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
@@ -92,8 +92,8 @@ Machine Learning is the ability to train machines for the required model out put
 This project is mainly useful for people who travel by cars and other means of transport. It explains about weather and road conditions which indicates the probability of getting into accidents. So the normal people and also the Government can use this project to reduce road accidents.
 
 
-<!-- GETTING STARTED -->
-## Getting Started
+<!-- DESCRIPTION OF DATA -->
+## Description of Data
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
