@@ -71,10 +71,13 @@
 Road traffic accidents have always been a serious issue in modern society. According to statistical results, more than 90% of accidents have been caused by a driver’s mistake and/or fatigue. Such accidents result in loss of life and material. These are caused by the carelessness of drivers and their ignorance and negligence of traffic rules.
 Approximately 1.35 million people die each year as a result of road traffic crashes.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+Some of the reasons for Road Accidents:
+* Over Speeding.
+* Drunken Driving.
+* Distractions to Driver.
+* Red Light Jumping.
+* Avoiding Safety Gears like Seat belts and Helmets.
+* Non-adherence to lane driving and overtaking in a wrong manner.
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
 
