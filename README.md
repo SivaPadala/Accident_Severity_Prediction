@@ -49,7 +49,7 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [Introduction](#about-the-project)
+* [Introduction](#introduction)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
@@ -63,7 +63,7 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
+<!-- INTRODUCTION -->
 ## Introduction
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
