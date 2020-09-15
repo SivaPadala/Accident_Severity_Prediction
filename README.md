@@ -33,7 +33,7 @@
     <img src="images/Coursera.png" alt="Coursera" width="400" height="102">
   </a>
 
-  <h3 align="center">Capstone Project</h3>
+  <h2 align="center">Capstone Project</h2>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
