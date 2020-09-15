@@ -50,7 +50,7 @@
 ## Table of Contents
 
 * [Introduction](#introduction)
-  * [Advanced Algorithms](### Advanced-algorithms)
+  * [Advanced Algorithms](#advanced-algorithms)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
