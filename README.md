@@ -109,7 +109,13 @@ The capstone project consists of [Notebook File]() which consists of information
 <!-- USAGE EXAMPLES -->
 ## Model Development
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+The data that might contribute to determining the likeliness of a potential acci-
+dent occurring might include information on previous accidents such as road
+conditions, weather conditions, exact time and place of the accident, type of ve-
+hicles involved in the accident, information on the users involved in the accident
+and ofcourse the severity of the accident. This projects aims to forecast the
+severity of accidents with previous information that could be given by a witness
+informing the emergency services.
 
 ### Data Description
 ### Data Cleansing
