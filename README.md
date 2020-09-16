@@ -134,7 +134,7 @@ size of the training set= 75,000 samples.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [Siva Padala](sivapsrr1993@gmail.com)
+Your Name - [Siva Padala](https://www.linkedin.com/in/siva-rama-reddy-padala-2ab1283) - sivapsrr1993@gmail.com
 
 Project Link: [https://github.com/SivaPadala/Coursera_Capstone](https://github.com/SivaPadala/Coursera_Capstone)
 
