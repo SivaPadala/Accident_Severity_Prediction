@@ -115,6 +115,10 @@ Use this space to show useful examples of how a project can be used. Additional 
 ### Data Cleansing
 ### Exploratory Data Analysis
 ### Accident Severity Prediction
+#### Random Forest
+#### Logistic Regression
+#### k-Nearest Neighbours
+#### Support Vector Machine
 
 
 <!-- ROADMAP -->
