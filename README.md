@@ -66,7 +66,7 @@
 <!-- INTRODUCTION -->
 ## Introduction
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://www.financialexpress.com/auto/gallery/most-dangerous-roads-in-the-world-countries-with-highest-road-deaths-and-its-not-india-on-top/photos/730573/)
 
 Road traffic accidents have always been a serious issue in modern society. According to statistical results, more than 90% of accidents have been caused by a driver’s mistake and/or fatigue. Such accidents result in loss of life and material. These are caused by the carelessness of drivers and their ignorance and negligence of traffic rules.
 Approximately 1.35 million people die each year as a result of road traffic crashes.
