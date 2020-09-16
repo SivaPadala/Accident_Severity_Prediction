@@ -136,7 +136,7 @@ size of the training set= 75,000 samples.
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/SivaPadala/Coursera_Capstone](https://github.com/SivaPadala/Coursera_Capstone)
 
 
 
