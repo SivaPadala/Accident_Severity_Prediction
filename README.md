@@ -109,22 +109,27 @@ The capstone project consists of [Notebook File]() which consists of information
 <!-- USAGE EXAMPLES -->
 ## Model Development
 
-The data that might contribute to determining the likeliness of a potential acci-
-dent occurring might include information on previous accidents such as road
-conditions, weather conditions, exact time and place of the accident, type of ve-
-hicles involved in the accident, information on the users involved in the accident
-and ofcourse the severity of the accident. This projects aims to forecast the
-severity of accidents with previous information that could be given by a witness
-informing the emergency services.
+The data that might contribute to determining the likeliness of a potential accident occurring might include information on previous accidents such as road conditions, weather conditions, exact time and place of the accident, type of vehicles involved in the accident, information on the users involved in the accident and ofcourse the severity of the accident. This projects aims to forecast the severity of accidents with previous information that could be given by a witness informing the emergency services.
 
 ### Data Description
+The dataset that resulted from the feature selection consisted in 839,985 samples, each one describing an accident and 29 different features.
+These features where the following:
+From the characteristics dataset: lighting, localisation, type of intersection, atmospheric conditions, type of collisions, department, time and the coordinates which are described in the Kaggle dataset here. In addition, two new features were crafted, date to perform a seasonality analysis of the accident severity and weekend indicating if the accident occurred during the weekend or not.
 ### Data Cleansing
+The data cleaning is the process of giving a proper format to the data for its further analysis. The first step was to deal with missing values and outliers. Initially the latitude, longitude and road number were dropped form the data frame as more than a 50% of its values where NaN or 0 which is an outlier in this case.
 ### Exploratory Data Analysis
+First, the distribution of the target's values was visualized. The plot confirmed that it is a balanced labeled dataset as the samples are divided 56-54 with more cases of lower severity. Then a seasonality analysis was performed, visualizing the global trend of daily accidents as well as the amount of accidents grouped by years, month of the year, and day of the week.
 ### Accident Severity Prediction
+Different classification algorithms have been tuned and built for the prediction of the level of accident severity. These algorithms provided a supervised learning approach predicting with certain accuracy and computational time. These two properties have been compared in order to determine the best suited algorithm for his specific problem.
+
 #### Random Forest
+10 decision trees, maximum depth of 12 features and maximum of 8 features compared for the split.
 #### Logistic Regression
+c=0.001.
 #### k-Nearest Neighbours
+k=16
 #### Support Vector Machine
+size of the training set= 75,000 samples.
 
 
 <!-- ROADMAP -->
