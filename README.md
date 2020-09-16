@@ -111,8 +111,10 @@ The capstone project consists of [Notebook File]() which consists of information
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
+### Data Description
+### Data Cleansing
+### Exploratory Data Analysis
+### Accident Severity Prediction
 
 
 <!-- ROADMAP -->
