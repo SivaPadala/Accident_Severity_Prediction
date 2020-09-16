@@ -24,7 +24,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://www.coursera.org/">
     <img src="images/Coursera.png" alt="Coursera" width="400" height="102">
   </a>
 
