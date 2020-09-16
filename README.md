@@ -64,10 +64,6 @@
     * [k-Nearest Neighbours](#k-nearest-neighbours)
     * [Support Vector Machine](#support-vector-machine)
 * [Results](#results)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
 
 
 
