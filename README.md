@@ -134,7 +134,7 @@ size of the training set= 75,000 samples.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [Siva Padala]() - sivapsrr1993@gmail.com
 
 Project Link: [https://github.com/SivaPadala/Coursera_Capstone](https://github.com/SivaPadala/Coursera_Capstone)
 
