@@ -98,7 +98,7 @@ The data is collected from [kaggle.com](https://www.kaggle.com/ahmedlahlou/accid
 
 ### Attribute Selection
 
-The capstone project consists of [Notebook File]() which consists of information about the data attributes which are taken into consideration and the ones which are dropped from the data as they are of no use. It contains all the steps and transformations I made to the data which include data cleansing, removal of duplicate values and unwanted data. 
+The capstone project consists of [Notebook File](https://github.com/SivaPadala/Coursera_Capstone/blob/master/Attribute%20Selection.ipynb) which consists of information about the data attributes which are taken into consideration and the ones which are dropped from the data as they are of no use. It contains all the steps and transformations I made to the data which include data cleansing, removal of duplicate values and unwanted data. 
 
 
 
