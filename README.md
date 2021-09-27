@@ -25,7 +25,7 @@
 <br />
 <p align="center">
   <a href="https://www.coursera.org/">
-    <img src="images/Coursera.png" alt="Coursera" width="400" height="102">
+    <img src="images/Data_Science.jpeg" alt="Data Science Project" width="512" height="220">
   </a>
 
   <h2 align="center">Capstone Project</h2>
