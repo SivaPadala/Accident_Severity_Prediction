@@ -149,7 +149,7 @@ In this case, the recall is more important than the precision as a high recall w
 
 Your Name - [Siva Padala](https://www.linkedin.com/in/siva-rama-reddy-padala-2ab12383) - sivapsrr1993@gmail.com
 
-Project Link: [https://github.com/SivaPadala/Coursera_Capstone](https://github.com/SivaPadala/Coursera_Capstone)
+Project Link: [https://github.com/SivaPadala/Accident_Severity_Prediction](https://github.com/SivaPadala/Accident_Severity_Prediction)
 
 
 
